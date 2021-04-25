@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    font-family: url('./Poppins/Poppins-Bold.ttf');
+    color: blue;
+}
+
+.bg-gray{
+    background-color:#E9ECEF;
+}
+
+.bg-blue{
+    background-color: blue;
+    color: white;
+}
+
+hr {
+    border: solid blue;
+    background-color: blue;
+    color: blue;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 2px 0px ;    
+  }
+
+  .cl-black{
+      color:black ;
+  }
